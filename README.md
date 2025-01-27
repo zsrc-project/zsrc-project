@@ -1,3 +1,6 @@
+> [!NOTE]
+> We are currently in the planning process of getting the project setup and will make further announcements as we progress. In the meantime, please feel free to review our Github, Roadmap, and other resources listed in this ```README.md``` document.
+
 # Zero Source Project
 The Zero Source Project (zsrc.org) is an open-source, community-driven initiative that bridges critical documentation gaps for the Information Technology (IT) and Cybersecurity fields. We empower professionals to collaboratively build a dynamic, crowdsourced knowledge network of detailed, field-tested guides. These practical, open-source resources complement official technical sources with real-world implementation steps, security best practices, and proven troubleshooting solutions.
 
